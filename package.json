@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "barbedwire <e.barbedwire@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
 }
