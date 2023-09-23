@@ -1,5 +1,4 @@
-export enum Languages { 'en', 'ru'};
-
+export enum Languages { EN = 'en', RU = 'ru' }
 export interface NewWordPayload {
   word: string,
   translation: string;
